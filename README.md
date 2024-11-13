@@ -16,7 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanisha-1971&show_icons=true&locale=en&layout=compact" alt="kanisha-1971" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanisha-1971&show_icons=true&locale=en" alt="kanisha-1971" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanisha-1971&" alt="kanisha-1971" /></p>
 
